@@ -1,11 +1,3 @@
-/*let f=document.getElementById('create-task-form');
-function yazen(e){
-  
-  
-  e.preventDefault();
-}
-f.onclick=yazen;*/
-
 document.addEventListener("DOMContentLoaded", () => {
   //grab all the necessary DOM elements
 
